@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 artifacts/
+test-trainer/
 
 # C extensions
 *.so
